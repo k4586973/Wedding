@@ -1,0 +1,78 @@
+@charset "EUC-KR";
+
+
+.title{
+  padding-left: 100px;
+  float: center;
+  margin: 0px;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+.title h1{
+		
+  text-align: left;
+   
+}
+ 
+.title img{
+		
+  height: 250px;
+  width: 900px;
+   
+}
+
+
+.products img{
+  float: center;
+  margin: 20px 60px 50px 80px;
+  height: 900px;
+  width: 800px;
+}
+
+
+
+.products h2{ 
+	
+	text-align: left;
+	margin: 100px 60px 50px 80px;
+}
+
+.products h3{ 
+	
+	text-align: left;
+	margin: 50px 60px 50px 80px;
+}
+
+
+
+.products1 img{
+  float: center;
+  text-align: center;
+  margin: 750px 60px 50px 80px;
+  height: 900px;
+  width: 800px;
+}
+
+
+
+.products1 h2{ 
+	
+	text-align: left;
+	margin: 100px 60px 50px 80px;
+}
+
+
+
+ .products1 h3{ 
+	
+	text-align: left;
+	margin: 50px 60px 50px 80px;
+}
+
+
+
+
+
+

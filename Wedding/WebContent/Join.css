@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+
+		body{
+		background : #fafafa;
+		}
+
+
+        
+       
+        
+        input[type="text"],input[type="password"],
+        input[type="tel"],input[type="date"]
+         {
+
+            margin : 10px auto;
+            border : 1px solid black;
+            padding : 14px 10px;
+            width : 200px;
+            border-radius : 24px;
+            transition : 0.25s;
+            text-align : center;
+        }
+        
+  
+        
+        
+        
+       button[type="submit"]{
+      
+            margin : 10px auto;
+            border : 1px solid black;
+            padding : 15px 55px;
+            color : black;
+            border-radius : 24px;
+            transition : 0.25s;
+            text-align : center;
+        }
+        button[type="submit"]:hover{
+            background : #E3DAD5;
+        }
+        
+        
+     
+        
+        
+       
+    
